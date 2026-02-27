@@ -1,5 +1,6 @@
-cat
+cat 
 dog
+tiger red
 tiger blue
 turtle
 flamingo
