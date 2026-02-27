@@ -1,6 +1,6 @@
-cat
+cat 
 dog
-tiger
+tiger red
 turtle
 flamingo
 whale
